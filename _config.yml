@@ -1,0 +1,28 @@
+name: fototarzia
+favicon: null
+layout_spectrum: 0.8082007574848831
+typography_spectrum: 0.31300330348312855
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.46020523528568447
+  lightness: 0.41466254158876836
+  saturation: 0.16651912685483694
+  rhythmicContrast: 0.6415049771312624
+purpose: []
